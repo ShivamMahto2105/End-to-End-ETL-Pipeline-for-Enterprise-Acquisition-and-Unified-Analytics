@@ -35,7 +35,7 @@ All transformations and orchestration are intended to run within Databricks note
 
 ## Databricks Workspace
 
-![Databricks Workspace](images/databricks_workspace.png)
+![Databricks Workspace](https://github.com/ShivamMahto2105/End-to-End-ETL-Pipeline-for-Enterprise-Acquisition-and-Unified-Analytics/blob/main/Resource/Databricks%20Workspace.png)
 
 *The notebooks, catalogs, and schemas as organized inside the Databricks workspace.*
 
@@ -139,7 +139,7 @@ dashboard/
 
 ## Dashboard
 
-![Dashboard]()
+![Dashboard](https://github.com/ShivamMahto2105/End-to-End-ETL-Pipeline-for-Enterprise-Acquisition-and-Unified-Analytics/blob/main/Dashboard/Dashboard_1.png)
 
 *Final BI dashboard built on top of the denormalised gold-layer table.*
 
