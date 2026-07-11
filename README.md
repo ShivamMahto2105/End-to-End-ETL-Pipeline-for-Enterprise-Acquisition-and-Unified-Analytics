@@ -139,7 +139,7 @@ dashboard/
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard]()
 
 *Final BI dashboard built on top of the denormalised gold-layer table.*
 
