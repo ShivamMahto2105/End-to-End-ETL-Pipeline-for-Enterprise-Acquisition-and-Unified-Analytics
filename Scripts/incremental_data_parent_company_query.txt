@@ -5,7 +5,7 @@ FROM (
     product_code,
     customer_code,
     CAST(sold_quantity AS BIGINT) AS sold_quantity
-  FROM '/Volumes/fmcg/gold/parent_incremental_data/fact_orders.csv'
+  FROM '/Volumes/fmcg/gold/parent_incremental_update/fact_orders.csv'
 )
 FILEFORMAT = CSV
 FORMAT_OPTIONS ('header' = 'true');
